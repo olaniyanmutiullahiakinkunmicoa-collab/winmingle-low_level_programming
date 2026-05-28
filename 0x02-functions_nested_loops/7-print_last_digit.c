@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * Author: Olaniyan Mutiullahi Akin
+ * Program: WinMingle Community C Training
+ * Description: fuction definition of lowercase alphabet
+ */
 
 int print_last_digit(int number)
 {
