@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * Author: Olaniyan Mutiullahi Akin
+ * Program: WinMingle Community C Training
+ * Description: fuction definition of Times Table
+ */
 void times_table(void)
 {
     int row, col, result;
