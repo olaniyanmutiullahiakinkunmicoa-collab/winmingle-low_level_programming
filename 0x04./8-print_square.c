@@ -4,7 +4,7 @@
 * main - causes an infinite loop
  * Author: Olaniyan Mutiullahi Akin
  * Program: WinMingle Community C Training
- * Description: funtion to print n number of line
+ * Description: funtion to print square of given line using #
 */
 
 void print_square(int size)
