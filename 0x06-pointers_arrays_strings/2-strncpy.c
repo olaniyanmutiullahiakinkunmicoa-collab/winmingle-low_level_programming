@@ -7,7 +7,7 @@
 * main - causes an infinite loop
  * Author: Olaniyan Mutiullahi Akin
  * Program: WinMingle Community C Training
- * Description: function to  two strings
+ * Description: function to  compare two strings
 */
 
 char *_strncpy(char *dest, char *src, int n)
